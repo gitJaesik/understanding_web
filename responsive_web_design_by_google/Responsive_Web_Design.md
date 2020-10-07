@@ -1,7 +1,8 @@
 # To use responsive web design
 
-# ref
+## ref
 
-https://developers.google.com/web/fundamentals/design-and-ux/responsive/patterns
+### Responsive Web design ref site
 
-https://web.dev/responsive-web-design-basics
+- https://developers.google.com/web/fundamentals/design-and-ux/responsive/patterns
+- https://web.dev/responsive-web-design-basics
