@@ -5,5 +5,9 @@
 ## Use atomic design pattern
 
 - I think atomic design pattern goes with responsive web
-  - Tempalte could be a web or mobile
+  - Template could be a web or mobile
   - Atoms, molecules and organisms go with templates
+
+## To develop, set the target specs
+
+- Cannot cover all devices
